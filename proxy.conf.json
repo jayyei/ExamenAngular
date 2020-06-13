@@ -1,0 +1,7 @@
+{
+  "/api/obtieneCoordenadasXUsuario": {
+    "target": "http://157.245.227.216:3000",
+    "secure": false,
+    "changeOrigin": true
+  }
+}
